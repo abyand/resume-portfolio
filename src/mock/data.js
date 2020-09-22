@@ -33,7 +33,7 @@ export const projectsData = [
     title: 'NewsaDay',
     info: "Simple app to browse news, user can browse headline news from available country and also can search news by keyword",
     info2: 'Build using newsapi.org API, MVVM Architecture with Coroutines and Livedata, applying offline first with Room',
-    url: '',
+    url: 'https://play.google.com/store/apps/details?id=com.myans.newsaday',
     repo: 'https://github.com/abyand/newsportal', // if no repo, the button will not show up
   },
   {
