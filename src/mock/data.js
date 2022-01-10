@@ -18,10 +18,10 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'me.jpg',
-  paragraphOne: 'Innovative tech mind with 3 years of experience working as a computer programmer especially in Android app development',
+  paragraphOne: 'Innovative tech mind with more than 3 years of experience working as a computer programmer especially in Android app development',
   paragraphTwo: 'Well-organised person, problem solver, communicative, both individual and team player and have approximately 1 year working at technology company in Indonesia',
   paragraphThree: 'fan of outdoor activities (Basketball, Badminton, Jogs), TV sitcom Series, Manga, and of course, game.',
-  resume: 'https://drive.google.com/file/d/1Yg3QlZdeAL3pOVxqwByp3esIUZ9_Nykg/view', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/13G_pkfpaG_Vri-gv7q_Sn7oMZXtVtJ8J/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
